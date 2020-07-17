@@ -18,7 +18,7 @@ Footer
     display: flex;
     flex-wrap: wrap;
     margin: 50px;
-    font-size: 50px;
+    font-size: 30px;
   }
   .footer .social-icon {
     color:hsl(42, 78%, 60%);
@@ -35,7 +35,7 @@ Footer
   }
   .footer li{
       list-style-type: none;
-      margin-left: 30px;
+      margin-left: 20px;
 
   }
 
